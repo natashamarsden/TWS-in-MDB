@@ -1,7 +1,7 @@
 # TWS-in-MDB
 This repository contains code used for an Engineering Capstone project at the University of Melbourne, entitled "Assessment of Hydrological Model Performance using GRACE-derived Terrestrial Water Storage in the Murray-Darling Basin." The authors are Natasha Marsden, Arfaa Feezanul Islam, and Jun Liu.
 
-The notebooks have been saved with all outputs (e.g., figures, maps, tables) already rendered, so they can be viewed directly without requiring re-execution. Note that the raw datasets are not included in the repository due to file size limitations. However, all datasets are publicly available and can be accessed via the sources detailed in Section 3.2 of the report. Minimal preprocessing was performed outside of the Python environment.
+The files have been saved with all outputs (e.g., figures, maps, tables) already rendered, so they can be viewed directly without requiring re-execution. Note that the raw datasets are not included in the repository due to file size limitations. However, all datasets are publicly available and can be accessed via the sources detailed in Section 3.2 of the report. Minimal preprocessing was performed outside of the Python environment. The files and their descriptions are as follows:
 
 - functions.py: Python script with all necessary functions
 - MDB_Regions.ipynb: Sub-basin delineation
